@@ -15,7 +15,7 @@ $ bower install
 $ npm start
 ```
 ## Demo
-![image](https://github.com/NG-MBTA/ng2-display-board/blob/master/public/assets/images/demo.JPG)
+![image](https://github.com/JSAssignments/ng4-display-board/blob/master/src/assets/images/demo.JPG)
 
 ### Tools
 
